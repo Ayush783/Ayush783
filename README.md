@@ -2,9 +2,9 @@
 <h3 align="center">One who enjoys learning and working with Flutter and other awesome techs!</h3>
 
 
-- 🔭 I’m currently working on a personal project :)
+- 🔭 I’m currently working on my portfolio website in Flutter :)
 
-- 🌱 I’m currently exploring **Socket.io**
+- 🌱 I’m currently exploring **Flutter Web**
 
 - 🤝 I'm currently open for work
 
