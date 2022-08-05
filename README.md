@@ -2,7 +2,7 @@
 <h3 align="center">One who enjoys learning and working with Flutter and other awesome techs!</h3>
 
 
-- 🔭 I just released my portfolio website made with Flutter and love :). check it out <a href="https://aayushsharma.me/">aayushsharma.me</a>.
+- 🔭 I just released my portfolio website made with Flutter and love :). check it out <a href="https://aayushsharma.me/" target="blank">aayushsharma.me</a>.
 
 - 🌱 I’m currently exploring **Flutter Web**.
 
