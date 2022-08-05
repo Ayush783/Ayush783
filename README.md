@@ -2,15 +2,15 @@
 <h3 align="center">One who enjoys learning and working with Flutter and other awesome techs!</h3>
 
 
-- 🔭 I’m currently working on my portfolio website in Flutter :)
+- 🔭 I just released my portfolio website made with Flutter and love :). check it out <a href="https://aayushsharma.me/">aayushsharma.me</a>.
 
-- 🌱 I’m currently exploring **Flutter Web**
+- 🌱 I’m currently exploring **Flutter Web**.
 
-- 🤝 I'm currently open for work
+- 🤝 I'm currently open for work.
 
-- 💬 Ask me anything about **Flutter / Dart**
+- 💬 Ask me anything about **Flutter / Dart**.
 
-- 📫 How to reach me **ayushc45xxx@gmail.com**
+- 📫 How to reach me **ayushc45xxx@gmail.com / aayush9778@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
