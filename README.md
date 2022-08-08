@@ -4,6 +4,8 @@
 
 - 🔭 I just released my portfolio website made with Flutter and love :). check it out <a href="https://aayushsharma.me/" target="_blank">aayushsharma.me</a>.
 
+- Just released the v0.0.2 of ReadSms plugin. have a look <a href="https://pub.dev/packages/readsms">here</a>
+
 - 🌱 I’m currently exploring **Flutter Web**.
 
 - 🤝 I'm currently open for work.
